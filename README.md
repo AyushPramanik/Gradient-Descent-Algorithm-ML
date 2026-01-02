@@ -1,6 +1,6 @@
 # Gradient-Descent-Algorithm-ML
 
-**Gradient Descent** is an optimization algorithm used in machine learning to minimize the loss function of a model by iteratively adjusting its parameters. It works by calculating the gradient of the loss function with respect to the model's parameters and then updating the parameters in the opposite direction of the gradient. This process continues until the model converges to the optimal set of parameters, or reaches a local minimum of the loss function. The step size of each update is controlled by a hyperparameter called the learning rate.
+**Gradient Descent** is an optimization algorithm used in machine learning to minimize the loss function of a model by iteratively adjusting its parameters. It works by calculating the gradient of the loss function with respect to the model's parameters and then updating the parameters in the opposite direction of the gradient. This process continues until the model converges to the optimal set of parameters, or reaches a local minimum of the loss function.
 
 File **main3d.py** creates **3D** visual render of the of the Gradient Descent Algorithm.
 
